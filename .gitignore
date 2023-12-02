@@ -1,0 +1,11 @@
+.dist
+bin
+include
+lib
+Scripts
+pyvenv.cfg
+
+app/.env
+app/*.json
+app/.dist
+app/services/__pycache__
