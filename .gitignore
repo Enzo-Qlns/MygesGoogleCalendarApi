@@ -4,8 +4,10 @@ include
 lib
 Scripts
 pyvenv.cfg
+.DS_Store
 
 app/.env
 app/*.json
 app/.dist
 app/services/__pycache__
+app/.DS_Store
