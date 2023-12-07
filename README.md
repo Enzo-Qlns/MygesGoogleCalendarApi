@@ -8,4 +8,4 @@
 
 List options : 
 - --add-all ajoute tous les prochains cours jusqu'à l'année prochaine dans votre calendrier
-- --del-all supprime tous les évenements de votre calendrier [⚠️ATTENTION⚠️] => cela supprime TOUT les évenements de votre calendrier, pas seulement les cours
+- --del-all supprime tous les évenements de votre calendrier [⚠️ATTENTION⚠️] => cela supprime TOUT les évenements de votre calendrier, pas seulement ceux ajoutés par l'api
